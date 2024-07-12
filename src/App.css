@@ -1,0 +1,20 @@
+*{
+  background-color: black;
+}
+.heading{
+  text-align: center;
+  color: white;
+  padding-top: 30px;
+}
+.maincontent{
+  height: 450px;
+  width: 360px;
+  border: 2px solid gray;
+  border-radius: 15px;
+  margin: 0 auto;
+  margin-top: 4%;
+  background-color: antiquewhite;
+  box-shadow: 5px 5px 10px  rgb(180, 175, 175) inset;
+  
+}
+

@@ -1,0 +1,13 @@
+.resultDiv{
+    height: 70px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color:rgb(242, 240, 235) ;
+    border:2px solid rgb(131, 130, 130);
+    color: black;
+    border-radius: 15px;
+    font-size: larger;
+    padding-left: 15px;
+    padding-top: 20px;
+  }

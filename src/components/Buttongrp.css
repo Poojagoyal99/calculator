@@ -1,0 +1,21 @@
+.btnsGroup{
+    margin: 40px;
+    background-color: antiquewhite;
+    display: flex;
+      flex-wrap: wrap;
+      justify-content: space-around;
+  }
+  .btnsGroup1{
+    margin-bottom: 10px;
+    background-color: antiquewhite;
+   
+  }
+  button{
+    height: 50px;
+    width: 60px;
+    color: black;
+    background-color: rgb(251, 250, 250);
+    font-weight: bolder; 
+    text-align: center;
+    font-size: larger;
+  }
